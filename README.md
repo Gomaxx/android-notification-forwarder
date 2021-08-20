@@ -6,8 +6,9 @@
 主要配合 [goma-virtualbox-extension-server](https://github.com/Gomaxx/goma-virtualbox-extension#goma-virtualbox-extension-server) 使用
 
 
-![运行方法](./screen.png)
+![PC效果图](./PC.png)
 
+![运行方法](./screen.png)
 
 常用应用 Notification 包：
 
