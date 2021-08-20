@@ -6,4 +6,5 @@
     <string name="ip">ip</string>
     <string name="filter">FILTER</string>
     <string name="description">FILTER:过滤包，多个以“，”隔开</string>
+    <string name="common">com.tencent.mm,com.tencent.mobileqq,com.alibaba.android.rimet</string>
 </resources>

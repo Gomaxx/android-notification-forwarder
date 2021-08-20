@@ -52,7 +52,7 @@
                 android:id="@+id/packages"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="cc.eoma.myapplication"/>
+                android:text="@string/common"/>
         </TableRow>
     </TableLayout>
 
