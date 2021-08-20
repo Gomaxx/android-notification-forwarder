@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notification-forwarder</string>
+    <string name="address">IP:PORT</string>
+    <string name="connection">connection</string>
+    <string name="port">port</string>
+    <string name="ip">ip</string>
+    <string name="filter">FILTER</string>
+    <string name="description">FILTER:过滤包，多个以“，”隔开</string>
+</resources>
