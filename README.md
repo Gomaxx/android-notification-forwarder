@@ -6,7 +6,7 @@
 主要配合 [goma-virtualbox-extension-server](https://github.com/Gomaxx/goma-virtualbox-extension#goma-virtualbox-extension-server) 使用
 
 
-![PC效果图](./PC.png)
+![PC效果图](./pc.png)
 
 ![运行方法](./screen.png)
 
