@@ -6,8 +6,7 @@
 主要配合 [goma-virtualbox-extension-server](https://github.com/Gomaxx/goma-virtualbox-extension#goma-virtualbox-extension-server) 使用
 
 
-<img src="./screen.png" width="220px" height="480px"/>
-<img src="./pc.png" width="780px" height="480px"/>
+<img src="./screen.png" width="220px" height="480px"/> <img src="./pc.png" width="780px" height="480px"/>
 
 
 
